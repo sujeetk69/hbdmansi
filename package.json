@@ -6,10 +6,6 @@
   "scripts": {
     "server-node": "http-server -p 8085"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
-  },
   "author": "Sujeet Kumar",
   "license": "WTFPL",
   "dependencies": {

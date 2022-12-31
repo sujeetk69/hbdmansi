@@ -1,0 +1,18 @@
+{
+  "name": "hbdm",
+  "version": "1.0.0",
+  "description": "Birthday Greetings",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8085"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayusharma/birthday.git"
+  },
+  "author": "Sujeet Kumar",
+  "license": "WTFPL",
+  "dependencies": {
+    "http-server": "^0.11.2"
+  }
+}
